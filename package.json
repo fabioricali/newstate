@@ -1,0 +1,27 @@
+{
+  "name": "newstate",
+  "version": "0.0.0",
+  "description": "Returns the next immutable state by current",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabioricali/newstate.git"
+  },
+  "keywords": [
+    "immutable",
+    "state",
+    "next-state"
+  ],
+  "author": "Fabio Ricali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabioricali/newstate/issues"
+  },
+  "homepage": "https://github.com/fabioricali/newstate#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
